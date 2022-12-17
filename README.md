@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Saul-Medeiros
-- 👀 I’m interested in Back-End Language
-- 🌱 I’m currently learning Java OOP, HTML and CSS
-- 💞️ I’m looking to collaborate on simple projects and junior programming
-- 📫 How to reach me: send me message on gmail saulmedeiros2017@gmail.com or click website in my bio of GitHub :)
+## 👋 E aí, eu sou o Saul Medeiros 😎
 
-<!---
-Saul-Medeiros/Saul-Medeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Eu me interesso bastante por linguagem de programação e de desenvolvimento web
+- 🌱 Atualmente estudo Java Programação Orientada a Objetos, Phyton, HTML/CSS e JavaScript
+- 📫 Mande uma mensaem no meu gmail: saulmedeiros2017@gmail.com ou clique no website na minha bio do GitHub 😉
+
+<div>
+  <a href="https://github.com/Saul-Medeiros">
+    <img height="180em" src="https://github-readme-stats.vercal.app/api?username=Saul-Medeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercall.app/api/top-langs/?username=Saul-Medeiros&layout=compact&langs_count=16&theme=dracula"/>
+</div>
