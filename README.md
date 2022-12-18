@@ -2,7 +2,7 @@
 
 - 👀 Eu me interesso bastante por linguagem de programação e linguagem de desenvolvimento web
 - 🌱 Atualmente estudo Java Programação Orientada a Objetos, Phyton, HTML/CSS e JavaScript, e sei algumas coisinhas de MySql
-- 📫 Mande uma mensagem no meu gmail: saulmedeiros2017@gmail.com ou clique no website na minha bio do GitHub 😉
+- 📫 Mande uma mensagem no meu gmail: saulmedeiros2017@gmail.com ou clique no link na minha bio do GitHub 😉
 
 <div>
   <a href="https://github.com/Saul-Medeiros">
