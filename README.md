@@ -1,7 +1,7 @@
 ## 👋 E aí, eu sou o Saul Medeiros 😎
 
 - 👀 Eu me interesso bastante por linguagem de programação e linguagem de desenvolvimento web
-- 🌱 Atualmente estudo Java Programação Orientada a Objetos, Phyton, HTML/CSS e JavaScript, e sei algumas coisinhas de MySql
+- 🌱 Atualmente estudo Java Programação Orientada a Objetos, Phyton, HTML/CSS e JavaScript, e sei algumas coisinhas de SQL
 - 📫 Mande uma mensagem no meu gmail: saulmedeiros2017@gmail.com ou clique no link na minha bio do GitHub 😉
 
 <div style="display: inline_block"><br>
