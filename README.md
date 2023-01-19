@@ -1,8 +1,14 @@
 ## 👋 E aí, eu sou o Saul Medeiros 😎
-
+<!--
 - 👀 Eu me interesso bastante por linguagem de programação e linguagem de desenvolvimento web
 - 🌱 Atualmente estudo Java, Programação Orientada a Objetos, Phyton, HTML/CSS e Javascript.
-
+-->
+```
+aboutme = {
+    'interesses': ['Programação Back-End', 'Desenvolvimento Web'],
+    'estudando': ['Java', 'Python', 'HTML', 'CSS', 'Javascript']
+}
+```
 <!--
 <div>
   <a href="https://github.com/Saul-Medeiros">
