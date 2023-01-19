@@ -1,13 +1,14 @@
 ## 👋 E aí, eu sou o Saul Medeiros 😎
 
 - 👀 Eu me interesso bastante por linguagem de programação e linguagem de desenvolvimento web
-- 🌱 Atualmente estudo Java Programação Orientada a Objetos, Phyton, HTML/CSS e JavaScript, e sei algumas coisinhas de SQL
-- 📫 Mande uma mensagem no meu gmail: saulmedeiros2017@gmail.com ou clique no link na minha bio do GitHub 😉
+- 🌱 Atualmente estudo Java, Programação Orientada a Objetos, Phyton, HTML/CSS e Javascript.
 
+<!--
 <div>
   <a href="https://github.com/Saul-Medeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Medeiros&layout=compact&langs_count=6&theme=dark"/>
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
