@@ -4,11 +4,11 @@
 - 🌱 Atualmente estudo Java, Programação Orientada a Objetos, Phyton, HTML/CSS e Javascript.
 -->
 ```py
-# Sou basicamente um amante da programação :)
 aboutme = {
     'interesses': 'Programação Back-End e Desenvolvimento Web',
     'estudando': 'Java, Python, HTML, CSS e Javascript'
 }
+# Sou basicamente um amante da programação :)
 ```
 <!--
 <div>
