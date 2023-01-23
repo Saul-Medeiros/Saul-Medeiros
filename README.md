@@ -10,19 +10,18 @@ aboutMe = {
 }
 # Sou basicamente um amante da programação :)
 ```
-<!--
+
 <div>
   <a href="https://github.com/Saul-Medeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Medeiros&layout=compact&langs_count=6&theme=dark"/>
 </div>
--->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Tomioka" height='128px' weidth'128px' target="_blank" src="https://github.com/Saul-Medeiros/Saul-Medeiros/blob/main/Bad%20Joke%20Tomioka%20GIF%20-%20Bad%20Joke%20Tomioka%20Silence%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div>
 
