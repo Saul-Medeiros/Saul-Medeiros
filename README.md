@@ -6,7 +6,8 @@
 ```py
 aboutMe = {
     'interesses': 'Programação Back-End e Desenvolvimento Web',
-    'estudando': 'Java, Python, HTML, CSS e Javascript'
+    'back-end': 'Java, Python e PHP',
+    'front-end': 'HTML, CSS e Javascript'
 }
 # Sou basicamente um amante da programação :)
 ```
@@ -22,6 +23,7 @@ aboutMe = {
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Tomioka" height="128px" target="_blank" src="https://github.com/Saul-Medeiros/Saul-Medeiros/blob/main/Bad%20Joke%20Tomioka%20GIF%20-%20Bad%20Joke%20Tomioka%20Silence%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div>
 
