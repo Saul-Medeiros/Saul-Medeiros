@@ -9,7 +9,7 @@ aboutMe = {
     'back-end': 'Java, Python e PHP',
     'front-end': 'HTML, CSS e Javascript'
 }
-# Sou basicamente um amante da programação :)
+# Sou entusiasta por programação :)
 ```
 
 <div>
