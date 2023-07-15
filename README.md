@@ -1,7 +1,7 @@
 # 👋 E aí, eu sou o Saul Medeiros 😎
 
 - 👀 Eu me interesso bastante por linguagem de programação e linguagem de desenvolvimento web
-- 🌱 Atualmente estudo Java, Programação Orientada a Objetos, Phyton, HTML/CSS/JS e sei um pouco de PHP.
+- 🌱 Atualmente estudo Java, Programação Orientada a Objetos, Python, HTML/CSS/JS e sei um pouco de PHP.
 - ⭐ Planejo para o meu futuro entrar em uma faculdade de TI para aprimorar e aperfeiçoar meu conhecimento
 
 ## Redes sociais
@@ -24,6 +24,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Medeiros&layout=compact&langs_count=6&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=000&border_color=000000)
 
+<!--
 ## Contribuições
 
 ![Snake animation](https://github.com/Saul-Medeiros/Saul-Medeiros/blob/output/github-contribution-grid-snake.svg)
+-->
