@@ -23,9 +23,3 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Medeiros&layout=compact&langs_count=6&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=000&border_color=000000)
-
-<!--
-## Contribuições
-
-![Snake animation](https://github.com/Saul-Medeiros/Saul-Medeiros/blob/output/github-contribution-grid-snake.svg)
--->
