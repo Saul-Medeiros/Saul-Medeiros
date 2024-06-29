@@ -8,9 +8,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saul.mdrs_) [![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulmedeiros2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulmedeiros/)
 
-<img align="right" alt="Tomioka" height="185px" target="_blank" src="https://github.com/Saul-Medeiros/Saul-Medeiros/blob/main/Bad%20Joke%20Tomioka%20GIF%20-%20Bad%20Joke%20Tomioka%20Silence%20-%20Discover%20%26%20Share%20GIFs.gif">
-
 ## Tecnologias
+
+<img align="right" alt="Tomioka" height="185px" target="_blank" src="https://github.com/Saul-Medeiros/Saul-Medeiros/blob/main/Bad%20Joke%20Tomioka%20GIF%20-%20Bad%20Joke%20Tomioka%20Silence%20-%20Discover%20%26%20Share%20GIFs.gif">
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp;
