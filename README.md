@@ -6,7 +6,7 @@
 
 ## Redes sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saul.mdrs_) [![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulmedeiros2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulmedeiros/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saul.mdrs_) [![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulmedeiros2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-medeiros/)
 
 ## Tecnologias
 
